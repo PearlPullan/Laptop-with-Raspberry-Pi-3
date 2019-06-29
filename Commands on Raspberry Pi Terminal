@@ -1,0 +1,40 @@
+
+Ctrl + Alt + t
+
+sudo== super do assuming you are the admin
+
+sudo apt-get update
+
+sudo apt-get upgrade
+
+sudo apt-get install python3
+
+python -v
+
+raspi-config
+or Applications-> Preferences -> Raspberry Pi Configuration
+
+sudo reboot
+
+sudo apt-get install python-serial
+
+RX ----- TX
+TX ----- RX
+GND --- GND
+
+dmesg |grep tty
+
+Shebang
+The first line in python script files that tells the system where to locate the interpreter
+#! /usr/bin/python3
+
+Run a python program when it location is in pi or home folder and not in any sub folder
+sudo python program _name.py
+or
+chmod +x program_name.py
+./program_name.py 
+or
+(If you place them somewhere else than your home folder you will have to describe the whole path to start them)
+
+
+
