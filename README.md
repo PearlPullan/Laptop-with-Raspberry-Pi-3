@@ -18,8 +18,5 @@ FYI. These are the links to the videos I used to figure out how to connect and u
 Till 8:46 minutes
  https://www.youtube.com/watch?v=DwLAC0JSKKE
  
- 
- startlxde
- 
 4:10 minutes onwards
  https://www.youtube.com/watch?v=AJ7skYS5bjI&t=297s
