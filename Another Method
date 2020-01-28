@@ -1,0 +1,6 @@
+Install putty and VNC server
+
+Put the sd card of raspberry pi on a card reader. Open its cmdline.txt file using sublime text or some other editor. 
+Add the IP address after checking the Ethernet address of your laptop using ipconfig on the terminal.
+
+Enter the IP Address in putty. After logging in, do the same on VNC Server. And viola ......... you can see your raspberry pi screen on your laptop
